@@ -15,7 +15,7 @@ One of the bankers had the good sense to go into a hotel where he was a frequent
 
 What was an odd set of engineers and investment bankers to do under such unlikely circumstances?  Well, we decided to walk uptown, away from the obvious smoke and fumes and the possible crowd panic (which fortunately did not happen).  After many blocks, we came upon an Italian restaurant[^5] which was - improbably - still open, although only the restaurant owner was there.  The owner obligingly cooked up some rather good pasta and salad for our lunch.  Served with a few glasses of wine, of course.  We then proceeded to hold our meeting as planned, right there in the empty restauarant..
 
-Eventually, we heard on the restaurant's tint TV (only CBS was left on the air) that the travel shutdown had been lifted and that we could and should go home. 
+Eventually, we heard on the restaurant's tiny TV (only CBS was left on the air) that the travel shutdown had been lifted and that we could and should go home. 
 
 The NJ Transit conductor did not collect the return ticket.
 
