@@ -33,7 +33,7 @@ The footnotes are only partly facetious, I wanted to tell the story without slog
 
 [^3]: As a two-consultant meeting, this was at least of minor importance to "XY Capital", although the sums involved were relative pocket change, or perhaps even pocket lint, in their greater scheme of things. The two bankers were quite junior employees.
 
-[^4]: semi-mandatory gratuitous T.S.Eliot reference.
+[^4]: A semi-mandatory gratuitous T.S.Eliot "Wasteland" allusion.
 
 [^5]: I greatly regret that I do not remember the name of the restaurant.
 
