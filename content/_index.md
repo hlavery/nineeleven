@@ -18,9 +18,13 @@ What was an odd set of engineers and investment bankers to do under such unlikel
 Eventually, we heard on the restaurant's tint TV (only CBS was left on the air) that the travel shutdown had been lifted and that we could and should go home. 
 
 The NJ Transit conductor did not collect the return ticket.
- 
-___________________________________________________
 
+| Something like the dawn view from a NJ Transit train.  Think blue. |
+| :---: | 
+| ![](IMG_0164.jpg?height=200px) |
+| Detail of lithograph, artist's  signature illegible, ca. 1980, From my collection) |
+
+__________________________________________________
 The footnotes are only partly facetious, I wanted to tell the story without slogging though the details.  
 
 [^1]: My educational background is in Chemical Engineering, and I spent the last half of my career with a technical specialty in fiber recovery from printed papers (recycled office papers, as well as newsprint and magazines).  I first had regular corporate R&D jobs (although ones with extremely high travel requirements), but later did independent consulting work.
