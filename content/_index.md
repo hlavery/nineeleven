@@ -5,17 +5,17 @@ draft: false
 weight: 5
 alwaysopen: true
 ---
-On that Tuesday twenty years ago...my day began before dawn as a passenger on a commuter train into Manhattan. I was preparing for what was supposed to be a brief morning consulting gig.[^1] My clients were investment bankers [^2], themselves day-commuters from threir Connecticut branch offices to their corporate headquarters in an skyscraper near Grand Central Station.  Once arrived at  Penn Station, where the NJ Transit commuter lines terminate, I had an easy subway ride uptown.
+On that Tuesday twenty years ago...my day began before dawn as a passenger on a commuter train into Manhattan. I was preparing for what was supposed to be a brief morning consulting gig.[^1] My clients were investment bankers [^2], themselves day-commuters from their Connecticut branch offices to the corporate headquarters of "XY Capital", a skyscraper near Grand Central Station.  Once arrived at Penn Station, where the NJ Transit commuter lines terminate, I had an easy subway ride uptown.
 
 We had no sooner introduced ourselves (myself, two bankers, and a second consultant with a more senior and more general paper industry background [^3]) and started the preliminaries more-or-less on time at 9 AM, when someone burst in the door and shouted that there was a security issue and we were to leave the building immediately. A climb down many, many flights of stairs followed.
 
-Once outside, we found ourselves in an unreal city[^4].  Crowds of people were standing around in the street, most dialing away at their cell phones (a futility, as the cell networks crashed from excess demand, long before the antennas on the North Tower fell). A reassuring number of New York City police had appeared, but there was no sense of immanent danger from the crowd. Shock and confusion, no disruption or panic.
+Once outside, we found ourselves in unreal city[^4].  Crowds of people were standing around in the street, most dialing away at their cell phones (all futile, as the cell networks crashed from excess demand long before the antennas on the North Tower fell). A reassuring number of New York City police had appeared, but there was no sense of immanent danger from the crowd. Shock and confusion, no disruption or panic.
 
 One of the bankers had the good sense to go into a hotel where he was a frequent customer, looking for a Plan B.  He quickly got us a summary (partial at that point) of what had happened.  He also had found that the city was completely isolated, with all transit shut down and all bridges/tunnels closed, and that there was zero possibility of finding a hotel room. No leaving, no staying.
 
-What was an odd set of engineers and investment bankers to do under such unlikely circumstances?  Well, we decided to walk uptown, away from the obvious smoke and fumes and the possible crowd panic (which fortunately did not happen).  After many blocks, we came upon an Italian restaurant[^5] which was improbably still open, although only the restaurant owner was there.  The owner obligingly cooked up some rather good pasta and salad for our lunch.  And a few glasses of wine, of course.  We then proceeded to hold our meeting as planned.
+What was an odd set of engineers and investment bankers to do under such unlikely circumstances?  Well, we decided to walk uptown, away from the obvious smoke and fumes and the possible crowd panic (which fortunately did not happen).  After many blocks, we came upon an Italian restaurant[^5] which was - improbably - still open, although only the restaurant owner was there.  The owner obligingly cooked up some rather good pasta and salad for our lunch.  Served with a few glasses of wine, of course.  We then proceeded to hold our meeting as plannedright there in the empty restauarant..
 
-Eventually, we heard on the restaurant's TV (only CBS was left on the air) that the travel shutdown had been lifted and that we could and should go home. 
+Eventually, we heard on the restaurant's tint TV (only CBS was left on the air) that the travel shutdown had been lifted and that we could and should go home. 
 
 The NJ Transit conductor did not collect the return ticket.
  
