@@ -7,7 +7,7 @@ alwaysopen: true
 ---
 On that Tuesday twenty years ago...my day began before dawn as a passenger on a commuter train into Manhattan. I was preparing for what was supposed to be a brief morning consulting gig.[^1] My clients were investment bankers [^2], themselves day-commuters from their Connecticut branch offices to the corporate headquarters of "XY Capital", a skyscraper near Grand Central Station.  Once arrived at Penn Station, where the NJ Transit commuter lines terminate, I had an easy subway ride uptown.
 
-We had no sooner introduced ourselves (myself, two bankers, and a second consultant with a more senior and more general paper industry background [^3]) and started the preliminaries more-or-less on time at 9 AM, when someone burst in the door and shouted that there was a security issue and we were to leave the building immediately. A climb down many, many flights of stairs followed.
+We had no sooner introduced ourselves (myself, two bankers, and a second consultant with a more senior and more general industrial background [^3]) and started the preliminaries more-or-less on time at 9 AM, when someone burst in the door and shouted that there was a security issue and we were to leave the building immediately. A climb down many, many flights of stairs followed.
 
 Once outside, we found ourselves in unreal city[^4].  Crowds of people were standing around in the street, most dialing away at their cell phones (all futile, as the cell networks crashed from excess demand long before the antennas on the North Tower fell). A reassuring number of New York City police had appeared, but there was no sense of immanent danger from the crowd. Shock and confusion, no disruption or panic.
 
