@@ -11,7 +11,7 @@ pygmentsStyle = "monokailight"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
-
+relativeURLs = true
 
 # [Languages]
 # [Languages.en]
