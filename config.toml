@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "My September 11, 2001"
+title = "Further Letters and Compositions"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
