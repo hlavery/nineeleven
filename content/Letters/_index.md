@@ -20,4 +20,4 @@ Then, a static version of my Dad's World War II letters, originally hlavery.xyz.
 
 Finally, for now, a series of letters which Gabrielle (Heffron) Lavery wrote to her son Hugh, my father, while he was away at college for his first year.
 
-[Letters from Gabrielle](https://ipfs.io/ipfs/QmeD4qCsXT7b1gSK2bcZBnsLMBj9NJvyBqPBaxC4JDmL51)
+[Letters from Gabrielle Lavery](https://ipfs.io/ipfs/QmeD4qCsXT7b1gSK2bcZBnsLMBj9NJvyBqPBaxC4JDmL51)

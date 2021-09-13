@@ -6,6 +6,6 @@ weight: 5
 alwaysopen: false
 ---
 
-Click to open!
+Click an essay below to begin!
 
 
