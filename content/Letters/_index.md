@@ -6,7 +6,7 @@ weight: 3
 alwaysopen: true
 ---
 
-The following letters, mostly from Grandma Gladys Potter to her daughter Mary, are the continuation of an earlier project of mine that aims to preserve some family letters and documents. 
+The following letters, mostly from Grandma Gladys Potter to her daughter Mary, are the continuation of an earlier project of mine that aims to preserve some family letters and documents. I had taken a break at the point in the letters when Grandpa George Potter died (December 1943).  Here, I will carry on from there.
 
 For various reasons, the original websites may not be stable long-term.
 
