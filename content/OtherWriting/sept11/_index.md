@@ -19,11 +19,6 @@ Eventually, we heard on the restaurant's tiny TV (only CBS was left on the air) 
 
 The NJ Transit conductor did not collect the return ticket.
 
-| Something like the dawn view from a NJ Transit train.  Think blue. |
-| :---: | 
-| ![](IMG_0164.jpg?height=200px) |
-| Detail of lithograph, artist's  signature illegible, ca. 1980, From my collection) |
-
 __________________________________________________
 The footnotes are only partly facetious, I wanted to tell the story without slogging though the details.  
 
