@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Further Letters and Compositions"
+title = "Further Letters and Essays"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
