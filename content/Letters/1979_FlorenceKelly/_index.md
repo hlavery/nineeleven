@@ -21,4 +21,9 @@ In this four-generation portrait ca. 1923, "Aunt Vine" is at the left, Laura Jon
 
 ![](HelenK-2.jpg?height=300px)
 
+Here is a photograph of Grandma Gladys Potter at age 19 in 1907...roughly contemporary witn Helen (Jones) Kelsey's story,
+
+![](Gladys1907.jpg?height=400px)
+
+
 
